@@ -1,5 +1,5 @@
 # Lern-Periode 1
-Name: Exemplibus Exemplio
+Name: Edim Omercevic
 
 12.08.2024 bis 29.09.2024
 
@@ -12,6 +12,7 @@ Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+C# Sprache und allgemein besser arbeiten
 
 ### Generelle Ziele
 Besser, konzentrierter arbeiten und auch sehr selbstständig sein, nicht viel fragen.
