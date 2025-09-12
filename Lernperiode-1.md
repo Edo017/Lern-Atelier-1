@@ -35,3 +35,5 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 ## 05.09.2025
 Reflexion: Heute habe ich die C# angefangen zu üben. Ich habe mir fast alle Anleitung von Frau Dillier angeschaut und die studiert. Alles ist bis jetzt gut gelaufen und hatte keine grosse Probleme. Für Nächstes mal will ich mehr über die Sprache recherchieren.
 
+## 12.09.2025
+Reflexion: Heute habe ich die C# studiert, ich habe auch über die Sprache gelesen aber es war ein bisschen kompliziert, ist auch normal wenn man eine neue Sprache lernt. Wie letztes mal ist alles gut gelaufen, keine grosse Probleme. Für nächstes Mal die Sprache besser zu verstehen und auch programmieren ohne zu spicken.
