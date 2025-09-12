@@ -31,3 +31,7 @@ Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
+
+## 05.09.2025
+Reflexion: Heute habe ich die C# angefangen zu üben. Ich habe mir fast alle Anleitung von Frau Dillier angeschaut und die studiert. Alles ist bis jetzt gut gelaufen und hatte keine grosse Probleme. Für Nächstes mal will ich mehr über die Sprache rechercherien.  
+
