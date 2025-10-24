@@ -30,5 +30,7 @@ Reflexion: Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele,
 
 
 
-##
+## Planung 24.10.25
+
+
 
