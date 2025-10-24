@@ -26,8 +26,8 @@ Besser, konzentrierter arbeiten und auch sehr selbstständig sein, nicht viel fr
 - [x] Allgemein im C# Sachen repetieren
 
 ##  Reflexion 17.10.25
-Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch im Modul 319 die Themen repetiert und noch das C# Buch gelesen, wo mir Herr Thut gegeben hat, alles ist gut gelaufen, hatte bisschen Schwierigkeiten bei den Expertzielen, weil ich mich nicht so gut mit Excel umgehen kann aber der lieber Joel hat mir geholfen. Jetzt kann ich mit Excel viel besser umgehen. Für nächstes Mal will mit dem C# Buch weiterlesen und Sachen ausprobieren und auch weiter mit Module machen.
-
+Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch im Modul 319 die Themen repetiert und noch das C# Buch gelesen, wo mir Herr Thut gegeben hat, alles ist gut gelaufen, hatte bisschen Schwierigkeiten bei den Expertzielen, weil ich mich nicht so gut mit Excel umgehen kann aber der lieber Joel hat mir geholfen. Jetzt kann ich mit Excel viel besser umgehen. Für nächstes Mal will mit dem C# Buch weiterlesen und Sachen ausprobieren und auch
+weiter mit Module machen.
 
 
 ## Planung 24.10.25
@@ -36,7 +36,20 @@ Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch 
 - [x] Die Codes testen und sie analysieren
 
 ### Reflexion 24.10.25
-Heute habe ich 
+Heute habe ich das C# Buch gelesen bis Kapitel 2. Es war interessant, ich habe Codes gesehen, die ich kenne und auch neue Codes. Alles ist super gelaufen. Das Buch ist wirklich interessant. Die einzige Bücher, die ich mag sind Programmiersprachen. Die Codes waren nicht so schwierig und waren schon simple. Es gibt schon einen Unterschied zwischen dem Buch und was Frau Dillier und gezeigt hat. Ich habe Visual Code gestartet und die Codes eigeben. Was neu für mich war, war diese Codes: 
+using System;
+public class Programm
+public static void Main
+und den Datentyp:
+var
+
+
+## Planung 31.10.25
+- [ ] Bis Kapitel 4 lesen
+- [ ] Die Codes ausprobieren
+- [ ] Mit dem Codes ein Programm starten und etwas machen
+      
+      
 
 
 
