@@ -1,4 +1,4 @@
-  # Lern-Periode 2
+   # Lern-Periode 2
 Name: Edim Omercevic
 
 17.10.25 - 19.12.25
@@ -21,9 +21,9 @@ Besser, konzentrierter arbeiten und auch sehr selbstständig sein, nicht viel fr
 
 ## Planung 17.10.25
 
--[x] Am Modul 431 arbeiten
--[x] Im Modul 319 für den Test repetieren
--[x] Allgemein im C# Sachen repetieren
+- [x] Am Modul 431 arbeiten
+- [x] Im Modul 319 für den Test repetieren
+- [x] Allgemein im C# Sachen repetieren
 
 ## 17.10.25
 Reflexion: Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch im Modul 319 die Themen repetiert und noch das C# Buch gelesen, wo mir Herr Thut gegeben hat, alles ist gut gelaufen, hatte bisschen Schwierigkeiten bei den Expertzielen, weil ich mich nicht so gut mit Excel umgehen kann aber der lieber Joel hat mir geholfen. Jetzt kann ich mit Excel viel besser umgehen. Für nächstes Mal will mit dem C# Buch weiterlesen und Sachen ausprobieren und auch weiter mit Module machen.
