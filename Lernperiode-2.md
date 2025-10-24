@@ -31,11 +31,12 @@ Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch 
 
 
 ## Planung 24.10.25
-- [ ] Das C# Buch bis Kapitel 3 lesen
-- [ ] Die Codes probieren, die ich im Buch gelesen habe auf C#
-- [ ] Die Codes
+- [x] Das C# Buch bis Kapitel 2 lesen
+- [x] Die Codes probieren, die ich im Buch gelesen habe auf C#
+- [x] Die Codes testen und sie analysieren
 
 ### Reflexion 24.10.25
+Heute habe ich 
 
 
 
