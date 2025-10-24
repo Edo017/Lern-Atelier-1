@@ -26,6 +26,9 @@ Besser, konzentrierter arbeiten und auch sehr selbstständig sein, nicht viel fr
 -[x] Allgemein im C# Sachen repetieren
 
 ## 17.10.25
-Reflexion: Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch im Modul 319 die Themen repetiert und noch das C# Buch gelesen, wo mir Herr Thut gegeben hat, alles ist gut gelaufen, hatte bisschen Schwierigkeiten bei den Expertzielen, weil ich mich nicht so gut mit Excel umgehen kann aber der lieber Joel. Jetzt kann ich mit Excel viel besser umgehen. Für nächstes Mal will mit dem C# Buch weiterlesen und Sachen ausprobieren und auch weiter mit Module machen.
+Reflexion: Heute habe ich am Modul 431 gearbeitet am 1718 und die Expertenziele, habe auch im Modul 319 die Themen repetiert und noch das C# Buch gelesen, wo mir Herr Thut gegeben hat, alles ist gut gelaufen, hatte bisschen Schwierigkeiten bei den Expertzielen, weil ich mich nicht so gut mit Excel umgehen kann aber der lieber Joel hat mir geholfen. Jetzt kann ich mit Excel viel besser umgehen. Für nächstes Mal will mit dem C# Buch weiterlesen und Sachen ausprobieren und auch weiter mit Module machen.
 
+
+
+##
 
