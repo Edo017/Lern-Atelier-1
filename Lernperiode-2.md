@@ -45,13 +45,22 @@ var
 
 
 ## Planung 31.10.25
+- [x] Bis Kapitel 3 lesen
+- [x] Die Codes ausprobieren
+- [x] Mit dem Codes ein Programm starten und etwas machen
+      
+      
+### Reflexion 31.10.25
+Heute habe ich bis Kapitel 3 gelesen. Im diesen Kapitel kamen die Datentypen mit dem man Zahlen speichern kann vor, wie zum Beispiel: int, float, byte, long, char, short, ulong etc.
+Es kam auch bool vor. Es gab wirklich keine Aufgaben, die ich im C# verarbeiten konnte nur Theorie fragen. Im Kapitel kam auch vor wie viel Grösse die Datentyp haben und auch wie man sie mit Variablen umsetzen kann. Mit Bool kam auch vor mit Variable verarbeiten.
+Die arithmetische Operation und die Symbolen &&(und) und ||(oder) wurden auch erwähnt und denen kann man auch mit bool verknüpfen.
+Der letzte Datentyp, wo vor kam, ist var. Var ersetzt jeden beliebigen Datentyp und der Compiler  versucht für dich herauszufinden, welcher Datentyp der richtige ist und verwendet automatisch diesen für dich. Wenn der Compiler nicht herausfinden kann, welcher Datentyp korrekt ist, funktioniert das Schlüsselwort nicht und du bekommst einen Compilerfehler.
+
+
+## Planung 07.11.25
 - [ ] Bis Kapitel 4 lesen
-- [ ] Die Codes ausprobieren
-- [ ] Mit dem Codes ein Programm starten und etwas machen
-      
-      
-
-
+- [ ] Am Modul 162 weiter arbeiten
+- [ ] Am Projekt weiter arbeiten
 
 
 
