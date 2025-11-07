@@ -62,5 +62,11 @@ Der letzte Datentyp, wo vor kam, ist var. Var ersetzt jeden beliebigen Datentyp 
 - [ ] Am Modul 162 weiter arbeiten
 - [ ] Am Projekt weiter arbeiten
 
+### Reflexion 07.11.25
+Heute habe ich 4. Kapitel gelesen. Es war für mich nicht so interessant, weil es nur über Datentypen war. Habe denn nochmals Kapitel 3 gelesen, weil mir langweilig war. Habe auch am Modul 162 weiter gearbeitet und habe 1731 beendet. Zuletzt habe ich auch am Projekt gearbeitet aber habe nicht viel gemacht nur unserern Plan schöner formuliert und paar Verbesserungen gemacht
 
+## Planung 14.11.25
+- [ ] Kapitel 5 lesen
+- [ ] Am Modul 162 weiter arbeiten
+- [ ] Am Projekt weiter arbeiten
 
