@@ -70,3 +70,10 @@ Heute habe ich 4. Kapitel gelesen. Es war für mich nicht so interessant, weil e
 - [ ] Am Modul 162 weiter arbeiten
 - [ ] Am Projekt weiter arbeiten
 
+### Reflexion  14.11.25
+Heute habe ich Kapitel 5 gelesen und im diesem Kapitel ging es um den Datentyp emun. Enum ist ein Datentyp, mit dem du eine Gruppe benannter Konstanten definieren kannst. Ich habe noch ein paare Aufgabe in Modul 162 gemacht, wie 1731 und 1734 und zuletzt habe ich mit Szymon bei unserem Projekt eine Powerpoint erstellt. Alles ging gut ausser, hatte keine grosse Schweirigkeiten und für nächstes Mal wird das gleiche sein wie heute.
+
+## Planung 21.11.25
+- [ ] Kapitel 6 lesen
+- [ ] Am Modul 162 weiter arbeiten
+- [ ] Am Projekt weiter arbeiten
