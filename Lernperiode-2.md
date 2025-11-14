@@ -1,4 +1,4 @@
-   # Lern-Periode 2
+# Lern-Periode 2
 Name: Edim Omercevic
 
 17.10.25 - 19.12.25
