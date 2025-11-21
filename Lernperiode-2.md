@@ -77,3 +77,12 @@ Heute habe ich Kapitel 5 gelesen und im diesem Kapitel ging es um den Datentyp e
 - [ ] Kapitel 6 lesen
 - [ ] Am Modul 162 weiter arbeiten
 - [ ] Am Projekt weiter arbeiten
+
+### Reflexion 21.11.25
+Heute habe ich einen neuen Browser installiert. Ich habe den Zen-Browser installiert und mir auf YouTube Videos mit Tipps und Tricks für den Browser angeschaut. Es war etwas anstrengend, den Browser zu wechseln, weil nicht jeder Browser gleich ist. Ausserdem musste ich mich noch schnell überall anmelden. Ausserdem habe ich mein Laptop mit Wallpaper Engine und Windhawk modifiziert. Ich habe mit Devrim noch einen anderen Browser angeschaut: Vilvaldi. Leider konnte ich nicht weiter an Modul 162 und dem Projekt arbeiten, da der Wechsel von Edge zu Zen lange dauerte und die YouTube-Videos im Durchschnitt 20 Minuten lang waren. Ich habe auch ein bisschen im Buch gelesen, im sechsten Kapitel.
+Ich hatte ein paar Schwierigkeiten mit dem Wechsel, aber sonst ist alles gut gelaufen. Für das nächste Mal werde ich Kapitel 6 fertig lesen, das Projekt einer letzten Kontrolle unterziehen und weiter an Modul 162 arbeiten.
+
+## Planung 28.11.25
+- [ ] Kapitel 6 fertig lesen
+- [ ] Projekt eine letzte Kontrolle geben
+- [ ] An Modul 162 weiter arbeiten
