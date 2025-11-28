@@ -83,6 +83,15 @@ Heute habe ich einen neuen Browser installiert. Ich habe den Zen-Browser install
 Ich hatte ein paar Schwierigkeiten mit dem Wechsel, aber sonst ist alles gut gelaufen. Für das nächste Mal werde ich Kapitel 6 fertig lesen, das Projekt einer letzten Kontrolle unterziehen und weiter an Modul 162 arbeiten.
 
 ## Planung 28.11.25
-- [ ] Kapitel 6 fertig lesen
-- [ ] Projekt eine letzte Kontrolle geben
-- [ ] An Modul 162 weiter arbeiten
+- [x] Kapitel 6 fertig lesen
+- [x] Projekt eine letzte Kontrolle geben
+- [x] An Modul 162 weiter arbeiten
+
+### Reflexion 28.11.25
+Heute habe ich alle meine Ziele erreicht, anders als letztes Mal. Zunächst habe ich mit Joel die JetBrains Toolbox installiert, da ich mit diesem Programm statt mit Visual Studio 2022 arbeiten wollte.
+Danach habe ich Kapitel 6 gelesen. Es war nicht so spannend für mich, weshalb ich mich entschieden habe, es nicht mehr zu lesen. Dafür werde ich das Buch „Sich selbst hacken” lesen. Ich habe nur eine Aufgabe in Modul 162 gemacht und dem Projekt eine letzte Kontrolle gegeben. Es gab keine Fehler.  Es gab keine grossen Schwierigkeiten. Nächstes Mal werde ich an Modul 117 arbeiten und das Buch „Sich selbst hacken” lesen. Wahrscheinlich werde ich mir auch YouTube-Videos über Excel anschauen.
+
+## Planunug 05.12.25
+- [ ] An Modul 177 anfangen
+- [ ] das Buch anfangen zu lesen
+- [ ] YouTube Videos über Excel anschauen
