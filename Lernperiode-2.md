@@ -92,6 +92,28 @@ Heute habe ich alle meine Ziele erreicht, anders als letztes Mal. Zunächst habe
 Danach habe ich Kapitel 6 gelesen. Es war nicht so spannend für mich, weshalb ich mich entschieden habe, es nicht mehr zu lesen. Dafür werde ich das Buch „Sich selbst hacken” lesen. Ich habe nur eine Aufgabe in Modul 162 gemacht und dem Projekt eine letzte Kontrolle gegeben. Es gab keine Fehler.  Es gab keine grossen Schwierigkeiten. Nächstes Mal werde ich an Modul 117 arbeiten und das Buch „Sich selbst hacken” lesen. Wahrscheinlich werde ich mir auch YouTube-Videos über Excel anschauen.
 
 ## Planunug 05.12.25
-- [ ] An Modul 177 anfangen
+- [x] An Modul 117 anfangen
 - [ ] das Buch anfangen zu lesen
+- [x] YouTube Videos über Excel anschauen
+
+### Reflexion 05.12.25
+Heute habe ich alle Ziele erreicht, ausser das mit dem Buch, weil ich heute nichts lesen wollte. Ich habe heute hauptsächlich für den OBA für Modul 162 gemacht. Ich habe ein kurzes Video über Excel gesehen, aber ich kannte schon viele Tricks. Beim Modul 117 habe ich mir nur die Aufgaben angeschaut, weil wir am Mittwoch nur kurz besprochen haben, was alles im Modul vorkommt. Ich hatte keine grossen Schwierigkeiten, alles lief gut. Für das nächste Mal arbeite ich an Modul 117, schaue mir nochmals Videos über Excel an und werde mit Programmieren üben. 
+
+## Planung 12.12.25
+- [ ] An Modul 117 weiterarbeiten
 - [ ] YouTube Videos über Excel anschauen
+- [ ] Programmieren üben
+
+## Planung 19.12.25
+- [x] Youtube Videos über Excel anschauen
+- [x] Programmieren üben
+
+### Reflexion 19.12.25
+Heute habe ich mir ein YouTube-Video angeschaut und anschliessend programmiert. Das Excel-Video kannte ich bereits und wollte anschliessend programmieren. Ich habe einfach Dinge programmiert, die ich kannte, habe mir auch Sachen von M319 angesehen, ChatGPT nach Ideen gefragt und mir auch YouTube-Tutorials zum Programmieren angeschaut. Ich habe es in C# gemacht. Heute lief alles gut, ich hatte ein paar Schwierigkeiten, aber es war nicht schlimm. Für das nächste Mal möchte ich an den Modulen weiterarbeiten.
+
+
+## Lernperiode Reflexion 19.12.25
+In dieser Lernperiode habe ich vieles gelernt: Ich habe programmieren gelernt, habe neue Sachen installiert, habe mehr Ahnung von Excel bekommen, habe ein C#-Buch gelesen usw. 
+Alles ist gut gelaufen, nichts war so schwierig für mich.
+Ich muss mir vieles merken, weil jede Programmiersprache anders ist, und auch die Sachen in Excel und die Sachen von den Modulen.
+Ich wäre besser vorgegangen, wenn ich mir meine Ziele immer erreicht hätte und Sachen gemacht hätte, die mir nicht viel Zeit genommen haben.
