@@ -30,3 +30,10 @@ Heute habe ich an den Modulen 117 und 164 gearbeitet. Zunächst habe ich an Modu
 ## Planung 16.01.26
 - [ ] An Modul 164 arbeiten
 - [ ] An Modul 117 arbeiten
+
+### Reflexion 16.01.26
+Heute bin ich wie folgt vorgegangen: Im Modul 117 habe ich 1719 ohne KI gelöst, was nicht so schwierig war und bei dem man auch keine großen Probleme bekam. Im Modul 164 habe ich kurz repetiert und 7722 mit etwas KI gelöst. Danach hatte ich keine Lust mehr zu arbeiten, weshalb ich mir ein paar Videos auf YouTube über Programmiersprachen und Linux angeschaut habe. Für das nächste Mal werde ich das Gleiche machen wie heute.
+
+## Planung 23.01.26
+- [ ] An Modul 164 arbeiten
+- [ ] An Modul 117 arbeiten
