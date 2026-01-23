@@ -37,3 +37,6 @@ Heute bin ich wie folgt vorgegangen: Im Modul 117 habe ich 1719 ohne KI gelöst,
 ## Planung 23.01.26
 - [ ] An Modul 164 arbeiten
 - [ ] An Modul 117 arbeiten
+
+### Reflexion 23.01.26
+Heute habe ich viele verschiedene Dinge gemacht. Zunächst habe ich mit Joel ein SQL-Quiz gemacht, und die Ergebnisse waren gut. Danach habe ich angefangen, die Programmiersprache C zu lernen, und Joel hat mir dabei geholfen. Ich habe mich auch heute entschieden, in den Ferien Python und C zu lernen.
