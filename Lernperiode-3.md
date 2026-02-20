@@ -43,15 +43,22 @@ Heute habe ich viele verschiedene Dinge gemacht. Zunächst habe ich mit Joel ein
 
 
 ## Planung 13.02.26
-- [ ] An Modul 164 arbeiten
-- [ ] An Modul 117 arbeiten
+- [x] An Modul 164 arbeiten
+- [x] An Modul 117 arbeiten
 
 ### Reflexion 13.02.26
 Ich habe heute Modul 117 bearbeitet. Gemini und ChatGPT haben mir dabei geholfen. Es war etwas voll, aber es ging eigentlich gut. Ich finde Netzwerke schwierig. Ich löste die 1720 und machte die restlichen Moodle-Tests. Mein Ziel ist das Gleiche wie beim letzten Mal.
 
 
 ## Planung 20.02.26
-- [ ] An Modul 164 arbeiten
-- [ ] An Modul 117 arbeiten
+- [x] An Modul 164 arbeiten
+- [x] An Modul 117 arbeiten
 
 
+### Reflexion 20.02.26
+Heute habe ich verschiedene Dinge gemacht. Zunächst habe ich mein logisches Datenmodell in ein physisches Datenmodell für das M164-Projekt umgewandelt. Dabei habe ich Manus AI zur Hilfe und zur Fehlerkorrektur benutzt. Danach habe ich ein paar Aufgaben im M177 gemacht: 1720, 1722 und noch ein paar andere. Dabei habe ich die KI benutzt, aber nicht die ganze Zeit. Mir sind heute keine Aufgaben schwergefallen, sondern nur normale Aufgaben, für die man sich nicht viel anstrengen muss oder die einfach sind. Für das nächste Mal werde ich ein paar KI-Tools ausprobieren und entweder C oder Python programmieren.
+
+## Planung 27.02.26
+- [ ] neue KI-Tools ausprobieren
+- [ ] C üben
+- [ ] Python üben
