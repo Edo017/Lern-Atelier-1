@@ -68,4 +68,14 @@ Heute habe ich viel mit KI gemacht. Zunächst habe ich sechs bis acht neue KIs a
 
 ## Planung 06.03.26
 - [ ] Python üben/programmiern
-- [ ] An den neuen Modulen arbeiten
+- [ ] An den neuen Modulen arbeitem
+  
+### Reflexion 06.03.26
+Heute habe ich nur Python geübt. Ich habe auch ein Spiel mit KI-Unterstützung programmiert. Es war sehr spannend zu sehen, wie die Sprache funktioniert. Das Programmieren war ein bisschen anspruchsvoll, aber dank der KI fiel es mir leicht. Große Schwierigkeiten hatte ich nicht. Für das nächste Mal werde ich nochmals Python üben und an den Modulen 106 und 187 arbeiten.
+
+## Planung 13.03.26
+- [ ] An Modul 187 arbeiten
+- [ ] An Modul 106 arbeiten
+- [ ] Python üben und programmieren
+  
+
