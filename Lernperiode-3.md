@@ -59,6 +59,13 @@ Ich habe heute Modul 117 bearbeitet. Gemini und ChatGPT haben mir dabei geholfen
 Heute habe ich verschiedene Dinge gemacht. Zunächst habe ich mein logisches Datenmodell in ein physisches Datenmodell für das M164-Projekt umgewandelt. Dabei habe ich Manus AI zur Hilfe und zur Fehlerkorrektur benutzt. Danach habe ich ein paar Aufgaben im M177 gemacht: 1720, 1722 und noch ein paar andere. Dabei habe ich die KI benutzt, aber nicht die ganze Zeit. Mir sind heute keine Aufgaben schwergefallen, sondern nur normale Aufgaben, für die man sich nicht viel anstrengen muss oder die einfach sind. Für das nächste Mal werde ich ein paar KI-Tools ausprobieren und entweder C oder Python programmieren.
 
 ## Planung 27.02.26
-- [ ] neue KI-Tools ausprobieren
-- [ ] C üben
-- [ ] Python üben
+- [x] neue KI-Tools ausprobieren
+- [x] C üben
+- [x] Python üben
+  
+### Reflexion 27.02.26
+Heute habe ich viel mit KI gemacht. Zunächst habe ich sechs bis acht neue KIs ausprobiert, die sich jeweils auf bestimmte Bereiche spezialisieren. Einige Beispiele sind Lumo Ai, Quillbot, Bolt Ai, Coderick Ai usw. Danach habe ich ein bisschen Python programmiert und einen Taschenrechner mit der neuen KI programmiert, die ich ausprobiert habe. Natürlich habe ich den ganzen Code alleine programmiert, nur die KI hat ihn korrigiert und ein bisschen verbessert. Alles ging gut und einfach, ich hatte keine großen Schwierigkeiten. Für das nächste Mal werde ich nochmals Python üben und wahrscheinlich an den neuen Modulen arbeiten.
+
+## Planung 06.03.26
+- [ ] Python üben/programmiern
+- [ ] An den neuen Modulen arbeiten
