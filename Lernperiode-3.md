@@ -77,5 +77,11 @@ Heute habe ich nur Python geübt. Ich habe auch ein Spiel mit KI-Unterstützung 
 - [ ] An Modul 187 arbeiten
 - [ ] An Modul 106 arbeiten
 - [ ] Python üben und programmieren
-  
 
+### Reflexion 13.03.26
+Heute hatte ich ein paar Probleme mit meiner SQL-Datenbank im Modul 187: Es wollte sich kein Backup erstellen lassen, da immer ein Fehler auftrat. Ich habe Claude gefragt, ob er mir helfen kann. Er hat mir einige Prompts für das Terminal gegeben, aber leider hat es trotzdem nicht funktioniert. Darum habe ich ein bisschen für Modul 187 repetiert, meine Python-Codes analysiert und die Sprache ein wenig geübt. Alles lief gut, ausser die Datenbank. Für nächste Woche werde ich wahrscheinlich das Gleiche machen, aber ich werde die Programmiersprache wechseln.
+
+## Planung 20.03.26
+- [ ] An Modul 187 repetieren
+- [ ] An Modul 106 weiter arbeiten
+- [ ] Entweder Python, C, C# oder C++ üben und programmieren
