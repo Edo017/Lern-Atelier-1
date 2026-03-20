@@ -74,14 +74,26 @@ Heute habe ich viel mit KI gemacht. Zunächst habe ich sechs bis acht neue KIs a
 Heute habe ich nur Python geübt. Ich habe auch ein Spiel mit KI-Unterstützung programmiert. Es war sehr spannend zu sehen, wie die Sprache funktioniert. Das Programmieren war ein bisschen anspruchsvoll, aber dank der KI fiel es mir leicht. Große Schwierigkeiten hatte ich nicht. Für das nächste Mal werde ich nochmals Python üben und an den Modulen 106 und 187 arbeiten.
 
 ## Planung 13.03.26
-- [ ] An Modul 187 arbeiten
-- [ ] An Modul 106 arbeiten
-- [ ] Python üben und programmieren
+- [x] An Modul 187 arbeiten
+- [x] An Modul 106 arbeiten
+- [x] Python üben und programmieren
 
 ### Reflexion 13.03.26
 Heute hatte ich ein paar Probleme mit meiner SQL-Datenbank im Modul 187: Es wollte sich kein Backup erstellen lassen, da immer ein Fehler auftrat. Ich habe Claude gefragt, ob er mir helfen kann. Er hat mir einige Prompts für das Terminal gegeben, aber leider hat es trotzdem nicht funktioniert. Darum habe ich ein bisschen für Modul 187 repetiert, meine Python-Codes analysiert und die Sprache ein wenig geübt. Alles lief gut, ausser die Datenbank. Für nächste Woche werde ich wahrscheinlich das Gleiche machen, aber ich werde die Programmiersprache wechseln.
 
 ## Planung 20.03.26
-- [ ] An Modul 187 repetieren
-- [ ] An Modul 106 weiter arbeiten
-- [ ] Entweder Python, C, C# oder C++ üben und programmieren
+- [x] An Modul 187 repetieren
+- [x] An Modul 106 weiter arbeiten
+- [x] Entweder Python, C, C# oder C++ üben und programmieren
+  
+### Reflexion 20.03.26
+Heute habe ich alle meine Aufgaben leicht erledigt. Zuerst habe ich im Modul 106 gearbeitet, Aufgabe 2404 erledigt und bin fast fertig mit 2405.
+Im Modul 187 habe ich wiederholt, wie man Windows 10 startet, und habe mir Hardware und Software genauer angeschaut.
+Zuletzt habe ich an Python gearbeitet, weil ich diese Sprache besser beherrsche als alle C-Sprachen, und habe Excel wiederholt. Heute ging alles gut, nichts war mir schwer oder anspruchsvoll. Nächste Woche werde ich an beiden Modulen arbeiten, C++ probieren und üben sowie Excel-Befehle repetieren und neue üben.
+
+## Planung 27.03.26
+- [ ] Am Modul 187 repetiert
+- [ ] Am Modul 106 weiter arbeiten
+- [ ] C++ üben und programmieren
+- [ ] Excel repetieren
+  
