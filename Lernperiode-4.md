@@ -21,4 +21,7 @@ Besser, konzentrierter arbeiten, sehr selbstständig sein und nicht viel fragen.
 
 
 ## Planung 22.05.2026
-- [ ] 
+- [ ] Python repeterien
+
+### reflexion 22.05.2026
+ich heute nur pyth
