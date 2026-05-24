@@ -21,7 +21,11 @@ Besser, konzentrierter arbeiten, sehr selbstständig sein und nicht viel fragen.
 
 
 ## Planung 22.05.2026
-- [ ] Python repeterien
+- [x] Python repeterien
 
-### reflexion 22.05.2026
-ich heute nur pyth
+### Reflexion 22.05.2026
+Ich habe heute nur Pyhton repetiert und ganz viele Videos geschaut von Programmieren. Heute fiel nichts schwer. Für nachstes Mal werde ich an den Modulen arbeiten.
+
+## Planung 29.05.26
+- [ ] Modul 122
+- [ ] Modul 293
