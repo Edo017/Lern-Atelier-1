@@ -67,8 +67,8 @@ Heute habe ich verschiedene Dinge gemacht. Zunächst habe ich mein logisches Dat
 Heute habe ich viel mit KI gemacht. Zunächst habe ich sechs bis acht neue KIs ausprobiert, die sich jeweils auf bestimmte Bereiche spezialisieren. Einige Beispiele sind Lumo Ai, Quillbot, Bolt Ai, Coderick Ai usw. Danach habe ich ein bisschen Python programmiert und einen Taschenrechner mit der neuen KI programmiert, die ich ausprobiert habe. Natürlich habe ich den ganzen Code alleine programmiert, nur die KI hat ihn korrigiert und ein bisschen verbessert. Alles ging gut und einfach, ich hatte keine großen Schwierigkeiten. Für das nächste Mal werde ich nochmals Python üben und wahrscheinlich an den neuen Modulen arbeiten.
 
 ## Planung 06.03.26
-- [ ] Python üben/programmiern
-- [ ] An den neuen Modulen arbeitem
+- [x] Python üben/programmiern
+- [x] An den neuen Modulen arbeitem
   
 ### Reflexion 06.03.26
 Heute habe ich nur Python geübt. Ich habe auch ein Spiel mit KI-Unterstützung programmiert. Es war sehr spannend zu sehen, wie die Sprache funktioniert. Das Programmieren war ein bisschen anspruchsvoll, aber dank der KI fiel es mir leicht. Große Schwierigkeiten hatte ich nicht. Für das nächste Mal werde ich nochmals Python üben und an den Modulen 106 und 187 arbeiten.
@@ -79,7 +79,7 @@ Heute habe ich nur Python geübt. Ich habe auch ein Spiel mit KI-Unterstützung 
 - [x] Python üben und programmieren
 
 ### Reflexion 13.03.26
-Heute hatte ich ein paar Probleme mit meiner SQL-Datenbank im Modul 187: Es wollte sich kein Backup erstellen lassen, da immer ein Fehler auftrat. Ich habe Claude gefragt, ob er mir helfen kann. Er hat mir einige Prompts für das Terminal gegeben, aber leider hat es trotzdem nicht funktioniert. Darum habe ich ein bisschen für Modul 187 repetiert, meine Python-Codes analysiert und die Sprache ein wenig geübt. Alles lief gut, ausser die Datenbank. Für nächste Woche werde ich wahrscheinlich das Gleiche machen, aber ich werde die Programmiersprache wechseln.
+Heute hatte ich ein paar Probleme mit meiner SQL-Datenbank im Modul 106: Es wollte sich kein Backup erstellen lassen, da immer ein Fehler auftrat. Ich habe Claude gefragt, ob er mir helfen kann. Er hat mir einige Prompts für das Terminal gegeben, aber leider hat es trotzdem nicht funktioniert. Darum habe ich ein bisschen für Modul 187 repetiert, meine Python-Codes analysiert und die Sprache ein wenig geübt. Alles lief gut, ausser die Datenbank. Für nächste Woche werde ich wahrscheinlich das Gleiche machen, aber ich werde die Programmiersprache wechseln.
 
 ## Planung 20.03.26
 - [x] An Modul 187 repetieren
@@ -91,9 +91,23 @@ Heute habe ich alle meine Aufgaben leicht erledigt. Zuerst habe ich im Modul 106
 Im Modul 187 habe ich wiederholt, wie man Windows 10 startet, und habe mir Hardware und Software genauer angeschaut.
 Zuletzt habe ich an Python gearbeitet, weil ich diese Sprache besser beherrsche als alle C-Sprachen, und habe Excel wiederholt. Heute ging alles gut, nichts war mir schwer oder anspruchsvoll. Nächste Woche werde ich an beiden Modulen arbeiten, C++ probieren und üben sowie Excel-Befehle repetieren und neue üben.
 
+### Nachholung 21.03.26
+An diesem Tag habe ich mich intensiv mit Excel beschäftigt. Der Fokus lag dabei auf der Wiederholung bereits bekannter Befehle und Funktionen, um mein Wissen zu festigen und sicherer im Umgang damit zu werden. Darüber hinaus habe ich neue Übungsaufgaben bearbeitet, bei denen ich bisher unbekannte oder weniger geläufige Befehle ausprobieren und anwenden konnte. Durch das gezielte Üben konnte ich mein Verständnis für die Funktionsweise von Excel vertiefen und meine Arbeitsabläufe effizienter gestalten.
+
+
 ## Planung 27.03.26
 - [ ] Am Modul 187 repetiert
-- [ ] Am Modul 106 weiter arbeiten
+- [ ] Am Modul 106 weiterarbeiten
 - [ ] C++ üben und programmieren
 - [ ] Excel repetieren
-  
+
+### Reflexion 27.03.26
+Heute hatte ich einen abwechslungsreichen Tag. Zunächst habe ich etwas C++ geübt, da diese Programmiersprache in der Spieleentwicklung besonders häufig zum Einsatz kommt. Es war ganz okay, aber auch etwas anspruchsvoll. Anschliessend habe ich das Modul 187 wiederholt, da wir am Mittwoch eine Prüfung dazu haben. Im Modul 106 habe ich die Aufgaben 2406 und 2407 erledigt. Zum Abschluss habe ich noch etwas Excel wiederholt.
+Insgesamt fiel mir heute nichts besonders schwer. Lediglich bei C++ war es etwas mühsam, die neuen Konzepte zu verinnerlichen, aber das wird mit der Zeit sicher besser werden. Beim nächsten Mal werde ich weiter an C++ arbeiten und die Module 187 und 106 fortsetzen.
+
+
+## Lernperiode Reflexion 27.03.26
+In den vergangenen Monaten habe ich regelmässig an verschiedenen Modulen und Themen gearbeitet. Zu Beginn lag der Fokus hauptsächlich auf den Modulen 117 und 164: Im Modul 117 habe ich die Aufgaben 1719 und 1720 gelöst und Moodle-Tests abgeschlossen. Dabei kamen mir Netzwerke teilweise schwierig vor. Im Modul 164 habe ich repetiert, Aufgaben gelöst und schliesslich ein logisches Datenmodell in ein physisches umgewandelt.
+Ein weiterer Schwerpunkt war das Kennenlernen neuer Technologien. Ich habe verschiedene KI-Tools wie Lumo AI, Quillbot und Bolt AI ausprobiert und sie zur Unterstützung beim Programmieren eingesetzt. Dabei habe ich hauptsächlich Python gelernt und damit einen Taschenrechner sowie ein Spiel programmiert. Daneben habe ich auch einen Einstieg in C und C++ gewagt, wobei mir Python besser liegt.
+In den Modulen 106 und 187 habe ich ebenfalls regelmässig gearbeitet. Im Modul 106 habe ich Aufgaben zu SQL-Datenbanken bearbeitet, hatte jedoch zeitweise technische Probleme beim Erstellen von Backups. Im Modul 187 wiederholte ich Themen rund um IT-Sicherheit, Hardware und Software sowie Windows 10, da hierzu eine Prüfung ansteht.
+Zusätzlich wiederholte ich Excel-Befehle und übte neue Funktionen, um meinen Umgang mit dem Programm zu verbessern. Insgesamt verliefen die meisten Tage gut und ohne grosse Schwierigkeiten – die grössten Herausforderungen lagen bei den Netzwerkthemen und den neuen Programmierkonzepten in C++.
