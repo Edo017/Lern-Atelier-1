@@ -27,5 +27,13 @@ Besser, konzentrierter arbeiten, sehr selbstständig sein und nicht viel fragen.
 Ich habe heute nur Pyhton repetiert und ganz viele Videos geschaut von Programmieren. Heute fiel nichts schwer. Für nachstes Mal werde ich an den Modulen arbeiten.
 
 ## Planung 29.05.26
-- [ ] Modul 122
-- [ ] Modul 293
+- [x] Modul 122
+- [x] Modul 293
+
+### Reflexion 29.05.26
+Heute habe ich wie immer ein bisschen an den Modulen gearbeitet, besser gesagt, ich habe das Gelernte wiederholt. Außerdem habe ich einen Passwort-Generator programmiert, wobei mir der Joel geholfen hat. Ich habe es in Python geschrieben. Heute ging alles gut, nur das Programmieren war etwas knifflig. Für das nächste Mal werde ich weiter Python programmieren und an 293 weiterarbeiten.
+
+## Planung 05.06.26
+- [ ] Python programmieren
+- [ ] Modul 293 weiter arbeiten
+  
