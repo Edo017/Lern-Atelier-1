@@ -31,7 +31,7 @@ Ich habe heute nur Pyhton repetiert und ganz viele Videos geschaut von Programmi
 - [x] Modul 293
 
 ### Reflexion 29.05.26
-Heute habe ich wie immer ein bisschen an den Modulen gearbeitet, besser gesagt, ich habe das Gelernte wiederholt. Außerdem habe ich einen Passwort-Generator programmiert, wobei mir der Joel geholfen hat. Ich habe es in Python geschrieben. Heute ging alles gut, nur das Programmieren war etwas knifflig. Für das nächste Mal werde ich weiter Python programmieren und an 293 weiterarbeiten.
+Heute habe ich wie immer ein bisschen an den Modulen gearbeitet, besser gesagt, ich habe das Gelernte wiederholt. Außerdem habe ich einen Passwort-Generator programmiert, wobei mir der Joel geholfen hat. Ich habe es in Python geschrieben. Heute ging alles gut, nur das Programmieren war etwas knifflig. Für das nächste Mal werde ich weiter Python programmieren und an M293 weiterarbeiten.
 
 ## Planung 05.06.26
 - [ ] Python programmieren
