@@ -40,8 +40,12 @@ Heute habe ich wie immer ein bisschen an den Modulen gearbeitet, besser gesagt, 
 ### Reflexion 05.06.26
 Heute habe ich die Arbeitspakete erledigt, wie in meiner Planung vorgesehen. Zuerst habe ich ein bisschen Python programmiert. Joel und ich haben uns gegenseitig Ideen gegeben. Ich gab ihm die Idee, ein Programm zu entwickeln, das den richtigen Namen vorschlägt, wenn man einen Namen falsch schreibt. Joel gab mir die Idee, ein Programm zu entwickeln, das in anderen Applikationen funktioniert und Spam-Nachrichten schicken kann, z. B. 100-mal denselben Text. Danach habe ich mit 293 gearbeitet und die HTML-Codes wiederholt. Heute war es wie letztes Mal knifflig wegen des Coding der Spam-Nachrichten. Für das nächste Mal möchte ich an dem Python-Projekt und auch an den Modulen weiterarbeiten.
 
-## Planung 12.06.26
-- [ ] Spam-Nachricht Python programm weiter arbeiten
-- [ ] Modul 293 weiter arbeiten
-- [ ] Modul 122 Projekt weiter arbeiten
+## Planung 19.06.26
+- [x] Spam-Nachricht Python programm weiter arbeiten
+- [x] Modul 293 weiter arbeiten
+- [x] Modul 122 Projekt weiter arbeiten
 
+### Reflexion 19.06.26
+Heute habe ich ein bisschen produktiv gearbeitet, abgesehen von dem kleinen Shopping-Gang. Ich habe heute an den Modulen 293 und 122 die LB bearbeitet und bin auch sehr weit gekommen. Es lief eigentlich gut. Bei Python habe ich nur ein bisschen gearbeitet, weil die LB wichtiger sind. Alles lief gut, nur beim Programmieren gab es ein paar Schwierigkeiten. Für das nächste Mal nur das Python-Projekt weiterarbeiten.
+## Planung 26.06.26
+- [ ] Spam-Nachricht Python programm weiter arbeiten
