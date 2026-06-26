@@ -63,6 +63,16 @@ Heute habe ich ein bisschen produktiv gearbeitet, abgesehen von dem kleinen Shop
 
 ## Planung 26.06.26
 
-- [ ] Spam-Nachricht Python programm weiter arbeiten
+- [x] Spam-Nachricht Python programm weiter arbeiten
 
-### Reflexion 26.06,26
+### Reflexion 26.06.26
+
+Heute habe ich eine Spam-Nachricht in Python programmiert. Es funktioniert sehr gut: Zunächst fragt das Programm, was geschrieben werden soll, dann wie oft. Dann hat man fünf Sekunden Zeit, um das Fenster zu wechseln. Es war schon ein bisschen schwierig, vor allem mit pyautogui und dass es mit dem Wechseln funktioniert. Leider musste ich es mit Manus korrigieren.
+
+# Lernperiode-Reflexion 26.06.26
+
+In den letzten Wochen habe ich vorwiegend an den Modulen 122 und 293 sowie an verschiedenen Python-Projekten gearbeitet. Dabei konnte ich mein Wissen regelmässig wiederholen und vertiefen. Insbesondere das Programmieren hat mir dabei geholfen, neue Fähigkeiten zu erlernen und praktische Erfahrungen zu sammeln.
+
+Teilweise waren die Projekte anspruchsvoll, insbesondere bei der Arbeit mit Python und neuen Bibliotheken. Durch Ausprobieren, Recherche und mit Unterstützung konnte ich die Schwierigkeiten jedoch lösen. Insgesamt habe ich meine Ziele erreicht und gute Fortschritte gemacht.
+
+Für die Zukunft möchte ich meine Python-Kenntnisse weiter ausbauen und die Module erfolgreich abschliessen.
