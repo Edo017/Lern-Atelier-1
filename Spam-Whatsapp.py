@@ -17,3 +17,4 @@ if __name__ == "__main__":
     spam_message = input("Gib die Nachricht ein, die du senden möchtest: ")
     num_repetitions = int(input("Gib die Anzahl der Wiederholungen ein: "))
     send_whatsapp_spam(spam_message, num_repetitions)
+

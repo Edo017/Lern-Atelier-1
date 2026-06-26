@@ -80,7 +80,7 @@ function Invoke-SystemHealthCheck {
     return $LogFilePath
 }
 
-# ✅ KORREKTUR: Korrekte Tastenerkennung über GetAsyncKeyState (Win32 API)
+# Korrekte Tastenerkennung über GetAsyncKeyState (Win32 API)
 Add-Type @"
 using System;
 using System.Runtime.InteropServices;
@@ -111,7 +111,7 @@ while ($true) {
 
     if ($ctrlDown -and $shiftDown -and $cDown) {
         
-        # ✅ Cooldown: Verhindert Mehrfach-Trigger solange Taste gehalten wird
+        # Verhindert Mehrfach-Trigger solange Taste gehalten wird
         $now = [DateTime]::Now
         if (($now - $LastCheck).TotalSeconds -lt 2) {
             Start-Sleep -Milliseconds 150
@@ -123,7 +123,7 @@ while ($true) {
         $res = Invoke-SystemHealthCheck -LogFilePath $LogPath
         Write-Host "[OK] Check abgeschlossen. Log: $res" -ForegroundColor Green
 
-        # ✅ KORREKTUR: MessageBox statt Read-Host (blockiert die Schleife nicht dauerhaft)
+        # MessageBox statt Read-Host (blockiert die Schleife nicht dauerhaft)
         $mbResult = [System.Windows.Forms.MessageBox]::Show(
             "Check abgeschlossen!`nMöchtest du die Log-Datei in VS Code öffnen?",
             "System Health Checkinator 4000",
