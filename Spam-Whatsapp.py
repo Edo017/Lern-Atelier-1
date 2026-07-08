@@ -19,4 +19,3 @@ if __name__ == "__main__":
     send_whatsapp_spam(spam_message, num_repetitions)
 
 
-
